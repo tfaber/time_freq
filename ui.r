@@ -1,3 +1,6 @@
+library(shiny)
+library(ggplot2)
+library(plotly)
 
 # Define UI for application that draws a histogram
 shinyUI(fluidPage(
